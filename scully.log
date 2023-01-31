@@ -1,0 +1,277 @@
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+(You can skip this, or any future question by using the --noPrompt flag)
+Puppeteer error while rendering "/contact"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/contact
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/articles"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/articles
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/posts/___UNPUBLISHED___ldjl675r_Ik1DcG4O2pbUVSs3iSTZRbx54ss3nMNt"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/posts/___UNPUBLISHED___ldjl675r_Ik1DcG4O2pbUVSs3iSTZRbx54ss3nMNt
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/
+ we will retry rendering this page up to 3 times.
+
+
+Puppeteer error while rendering "/contact"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/contact
+ we will retry rendering this page up to 3 times.Puppeteer error while rendering "/articles"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/articles
+ we will retry rendering this page up to 3 times.
+
+Puppeteer error while rendering "/posts/___UNPUBLISHED___ldjl675r_Ik1DcG4O2pbUVSs3iSTZRbx54ss3nMNt"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/posts/___UNPUBLISHED___ldjl675r_Ik1DcG4O2pbUVSs3iSTZRbx54ss3nMNt
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/contact"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/contact
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/articles"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/articles
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/posts/___UNPUBLISHED___ldjl675r_Ik1DcG4O2pbUVSs3iSTZRbx54ss3nMNt"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/posts/___UNPUBLISHED___ldjl675r_Ik1DcG4O2pbUVSs3iSTZRbx54ss3nMNt
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "/"
+Error: net::ERR_CONNECTION_REFUSED at http://localhost:1864/
+ we will retry rendering this page up to 3 times.
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"Using stored unhandled routes!.----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts", 404:""
+handleUnknownRoute: "/post", 404:""
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"Using stored unhandled routes!.----------------------------------
+
+
+
+handleUnknownRoute: "/posts/2023-01-30-posts/index.html", 404:""
+handleUnknownRoute: "/posts/angular-and-scully/index.html", 404:""
+handleUnknownRoute: "/posts/angular-and-scully/index.html", 404:""
+handleUnknownRoute: "/posts/angular-and-scully/index.html", 404:""
+handleUnknownRoute: "/posts/2023-01-30-posts/index.html", 404:""
+handleUnknownRoute: "/posts/angular-and-scully/index.html", 404:""
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.my-blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.my-blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
